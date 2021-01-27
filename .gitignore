@@ -1,0 +1,13 @@
+# dependencies
+node_modules
+
+# logs
+*.log
+
+# Intellij idea
+.idea
+*iml
+
+# VSCode
+.vscode
+.code-workspace
